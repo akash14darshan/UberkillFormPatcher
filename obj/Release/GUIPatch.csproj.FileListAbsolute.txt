@@ -1,0 +1,10 @@
+C:\Users\HOME\source\repos\GUIPatch\bin\Release\GUIPatch.exe.config
+C:\Users\HOME\source\repos\GUIPatch\bin\Release\GUIPatch.exe
+C:\Users\HOME\source\repos\GUIPatch\bin\Release\GUIPatch.pdb
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.Form1.resources
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.Properties.Resources.resources
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.exe
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.pdb
+C:\Users\HOME\source\repos\GUIPatch\obj\Release\GUIPatch.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\Scs.dll -> D:\SteamLibrary\steamapps\common\Uberstrike\Scs.dll
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\Scs.xml -> D:\SteamLibrary\steamapps\common\Uberstrike\Scs.xml
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\Uber.eye -> D:\SteamLibrary\steamapps\common\Uberstrike\Uber.eye
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberEye.exe -> D:\SteamLibrary\steamapps\common\Uberstrike\UberEye.exe
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\level3 -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\level3
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\SkyGarden.unity3d -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\SkyGarden.unity3d
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\SpaceCity.unity3d -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\SpaceCity.unity3d
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\SpacePortAlpha.unity3d -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\SpacePortAlpha.unity3d
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\SuperPRISMReactor.unity3d -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\SuperPRISMReactor.unity3d
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\UberZone.unity3d -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\UberZone.unity3d
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\Managed\Assembly-CSharp-firstpass.dll -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\Managed\Assembly-CSharp-firstpass.dll
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\Managed\Assembly-CSharp.dll -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\Managed\Assembly-CSharp.dll
+C:\Users\HOME\source\repos\GUIPatch\bin\Debug\Uberstrike\UberStrike_Data\Managed\UnityEngine.dll -> D:\SteamLibrary\steamapps\common\Uberstrike\UberStrike_Data\Managed\UnityEngine.dll
+13 File(s) copied
